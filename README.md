@@ -17,5 +17,3 @@ npx cypress open
 
 ```
 3. Run Tests
-```
-
