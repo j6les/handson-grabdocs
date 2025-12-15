@@ -12,15 +12,11 @@ npm install
 ```
 
 2. Run the app locally:
-'''bash
-
+```
 npm run dev
 
 ```
-
 3. Launch Cypress:
-'''bash
-
+```
 npx cypress open
 
-```
