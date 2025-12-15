@@ -9,20 +9,18 @@ This repo contains automated Cypress tests for the GrabDocs web app.
 
 npm install
 
-```bash block**
+```bash
 
-
-'''bash block**
+```bash
 
 2.  Run the app locally:
 '''bash
 
 npm run dev
 
-```bash block**
+```bash
 
-
-'''bash block**
+```bash
 
 3. Launch Cypress:
 '''bash
