@@ -1,4 +1,4 @@
-describe('ask GD Assisstant', () => {
+describe('ask GD Assisstant', () => {    
   it('asks price of item', () => {
     cy.visit("https://app.grabdocs.com/")
     cy.get('[name="username"]').click().type('ireallywanttopassthisclass@gmail.com');
